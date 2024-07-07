@@ -1,0 +1,16 @@
+# macOS specific file
+.DS_Store
+
+# Python compiled files
+__pycache__/
+
+# Virtual environment directory
+venv/
+
+# Instance directory (often used for local configs and sensitive data)
+instance/
+
+# General IDE/editor specific files
+.vscode/
+.idea/
+*.swp
